@@ -6,7 +6,7 @@
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/your-repo/gs_local.git
+git clone [https://github.com/your-repo/gs_local.git](https://github.com/roboticist-blip/2d-2-3d_Local_machine.git)
 cd gs_local
 
 # 2. (Recommended) Create & activate Conda environment

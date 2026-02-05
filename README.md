@@ -163,7 +163,3 @@ All metrics saved in JSON for publication:
 - NVIDIA GPU (8GB+ VRAM)
 - Python 3.8+
 - Ubuntu/Debian/macOS
-
----
-
-**Three commands. Complete pipeline. Publication-ready metrics.**

@@ -6,7 +6,7 @@
 
 ```bash
 # 1. Clone repository
-git clone [https://github.com/your-repo/gs_local.git](https://github.com/roboticist-blip/2d-2-3d_Local_machine.git)
+git clone https://github.com/roboticist-blip/2d-2-3d_Local_machine.git
 cd gs_local
 
 # 2. (Recommended) Create & activate Conda environment
@@ -19,7 +19,7 @@ chmod +x install.sh
 ./install.sh
 
 # 4. Process data
-gs-process video --data video.mp4 --out ./data/scene1
+gs-process video --data {path/to/video.mp4} --out {path/to/output}
 
 # 5. Train model
 gs-train ./data/scene1
